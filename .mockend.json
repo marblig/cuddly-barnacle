@@ -2,7 +2,7 @@
 	"Action": {
 	  "Adventure": 1365,
 	  "Comedies": 43040,
-	  "Sci-Fi/Fantasy": 1568,
+	  "Sci-Fi-Fantasy": 1568,
 	  "Thrillers": 43048
 	},
 	"Anime": {
@@ -17,14 +17,14 @@
 	  "Series": 6721,
 	},
 	"Classic" : {
-	  "Action/Adventure": 46576,
+	  "Action-Adventure": 46576,
 	  "Comedies": 31694,
 	  "Dramas": 29809,
 	  "Foreign": 32473,
 	  "Movies": 31574,
 	  "Musicals": 32392,
 	  "Romantic": 31273,
-	  "Sci-Fi/Fantasy": 47147,
+	  "Sci-Fi-Fantasy": 47147,
 	  "Thrillers": 46588,
 	  "TV": 46553,
 	  "War": 48744,
